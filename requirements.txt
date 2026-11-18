@@ -1,0 +1,6 @@
+pyzotero>=1.16      # older versions (e.g. 1.11) silently failed to attach PDFs
+requests
+PyMuPDF             # handwriting transcription: renders pages to images
+Pillow              # handwriting transcription: skips blank pages without an API call
+anthropic           # handwriting transcription
+pypdf               # optional: DOI extraction for PDFs dropped in the OneDrive folder

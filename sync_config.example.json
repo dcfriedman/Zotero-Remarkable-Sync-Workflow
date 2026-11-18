@@ -1,0 +1,13 @@
+{
+  "zotero_library_id": "YOUR_ZOTERO_USER_ID",
+  "zotero_api_key": "YOUR_ZOTERO_API_KEY",
+  "zotero_library_type": "user",
+  "zotero_import_collection": "COLLECTION_KEY_FOR_REMARKABLE_IMPORT",
+  "zotero_export_collection": "COLLECTION_KEY_FOR_SEND_REMARKABLE",
+  "remarkable_folder": "/Zotero Upload",
+  "remarkable_send_folder": "/From Zotero",
+  "poll_interval_seconds": 120,
+  "log_file": "sync.log",
+  "onedrive_watch_folder": "C:\\Users\\YOUR_WINDOWS_USER\\OneDrive\\Remarkable Upload",
+  "anthropic_api_key": "YOUR_ANTHROPIC_API_KEY (leave empty to turn handwriting transcription off)"
+}
